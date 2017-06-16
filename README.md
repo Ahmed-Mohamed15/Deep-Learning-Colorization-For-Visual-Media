@@ -2,7 +2,7 @@
 [Ahmed Mohamed](https://plus.google.com/u/0/112560867022978441535), [Ahmed Salah](https://plus.google.com/114612599386789683735), [Mohamed Kamil](muhamedkamel95@gmail.com
 ), [Omar Sayed]()
 
-![alt text](https://user-images.githubusercontent.com/22034912/27242672-990cd1f0-52de-11e7-97f9-92c1dcd44497.jpg)"ModelResults")
+![alt text](https://user-images.githubusercontent.com/22034912/27242672-990cd1f0-52de-11e7-97f9-92c1dcd44497.jpg"ModelResults")
  
  Results of our pre-trained model over a small landscape dataset (only 2000 image) with **CUDA** Api.
 
